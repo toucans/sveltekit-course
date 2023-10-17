@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "svelte-course-3",
+    "svelte-course-0": "svelte-course-0"
+  },
+  "targets": {},
+  "etags": {}
+}
